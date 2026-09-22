@@ -6,4 +6,7 @@ Sistema básico para cadastro e análise de vinhos artesanais da Vinheira Agnell
 - Rafael Farias Feitosa
 
 # Link do GitHub Pages  
-https://github.com/mtheus3391/Vinharia-Agnello
+https://mtheus3391.github.io/Vinharia-Agnello/
+
+# link do repositório no GitHub
+https://github.com/mtheus3391/Vinharia-Agnello/tree/main
